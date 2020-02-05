@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP2_IMC</string>
+    <string name="deterPoids" translatable="false">Determine your weight:</string>
+    <string name="deterTaille">Determine your size:</string>
+    <string name="Taille">Size:</string>
+    <string name="Poids">Weight:</string>
+    <string name="mètre">Metre</string>
+    <string name="Centimètre">Centimeter</string>
+    <string name="Appréciation">Appreciated</string>
+    <string name="CalculerIMC">Calculate the IMC</string>
+    <string name="Reset">Reset</string>
+    <string name="Résultat">Result</string>
+    <string name="CliquerCalculIMC">" You must click on the \"Calculate BMI\" button to obtain a result."</string>
+    <string name="famine">starvation</string>
+    <string name="maigreur">leanness</string>
+    <string name="corpulence_normale">normal build</string>
+    <string name="surpoids">overweight</string>
+    <string name="obésité_modéré">moderate obesity</string>
+    <string name="obésité_sévère">severe obesity</string>
+    <string name="obésité_morbide_ou_massive">" morbid or massive obesity"</string>
+    <string name="Votre_IMC">your imc is:</string>
+</resources>

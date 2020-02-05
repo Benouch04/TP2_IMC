@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TP2_IMC</string>
+    <string name="deterTaille">Déterminer votre taille:</string>
+    <string name="deterPoids">Déterminer votre poids:</string>
+    <string name="Taille">Taille:</string>
+    <string name="Poids">Poids:</string>
+    <string name="mètre">Mètre</string>
+    <string name="Centimètre">Centimètre</string>
+    <string name="Appréciation">Appréciation</string>
+    <string name="CalculerIMC">Calculer l\'imc</string>
+    <string name="Reset">Reset</string>
+    <string name="Résultat">Résultat</string>
+    <string name="CliquerCalculIMC">Vous devez cliquer sur le bouton « Calculer l\'IMC » pour obtenir un résultat.</string>
+    <string name="famine">famine</string>
+    <string name="maigreur">maigreur</string>
+    <string name="corpulence_normale">corpulence normale</string>
+    <string name="surpoids">surpoids</string>
+    <string name="obésité_modéré">obésité modéré</string>
+    <string name="obésité_sévère">obésité sévère</string>
+    <string name="obésité_morbide_ou_massive">obésité morbide ou massive</string>
+    <string name="Votre_IMC">Votre IMC est :</string>
+</resources>
